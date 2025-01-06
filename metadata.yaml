@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../schema.json
+blockExplorers:
+  - apiKey: https://api.blockscout.torus.network/api
+    apiUrl: https://api.blockscout.torus.network/api
+    family: etherscan
+    name: Blockscout
+    url: https://blockscout.torus.network/
+blocks:
+  confirmations: 1
+  estimateBlockTime: 13
+  reorgPeriod: finalized
+chainId: 21000
+displayName: Torus
+domainId: 21000
+isTestnet: true
+name: torus
+nativeToken:
+  decimals: 18
+  name: torus
+  symbol: TORUS
+protocol: ethereum
+rpcUrls:
+  - http: https://api-hyperlane.nodes.torus.network
