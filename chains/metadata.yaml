@@ -7,7 +7,7 @@ blockExplorers:
     url: https://blockscout.torus.network/
 blocks:
   confirmations: 1
-  estimateBlockTime: 13
+  estimateBlockTime: 8
   reorgPeriod: finalized
 chainId: 21000
 displayName: Torus
